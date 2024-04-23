@@ -35788,8 +35788,6 @@
 ||analytics.ghostery.com^
 ||analytics.glance.inmobi.com^
 ||analytics.global.sky.com^
-||analytics.go.com^
-||analytics.google.com^
 ||analytics.gorillanation.com^
 ||analytics.greensender.pl^
 ||analytics.groupe-seb.com^
