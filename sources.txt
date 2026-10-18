@@ -1,0 +1,10 @@
+# Listas de origem (uma URL por linha). Aceita formatos Adblock (||dominio^), hosts (0.0.0.0 dominio) e dominio puro.
+
+# HaGeZi Pro - anuncios, rastreadores, telemetria, malware, phishing, cryptojacking (atualizada varias vezes ao dia)
+https://raw.githubusercontent.com/hagezi/dns-blocklists/main/adblock/pro.txt
+
+# HaGeZi TIF mini - Threat Intelligence Feeds (malware, phishing, golpes, spam)
+https://raw.githubusercontent.com/hagezi/dns-blocklists/main/adblock/tif.mini.txt
+
+# StevenBlack Unified hosts - adware + malware, conservadora
+https://raw.githubusercontent.com/StevenBlack/hosts/master/hosts

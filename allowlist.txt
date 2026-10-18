@@ -1,0 +1,102 @@
+# Dominios que NUNCA entram na lista final.
+# Cada linha libera o dominio e todos os subdominios (ex.: google.com libera adservice.google.com).
+# "marca.*" libera a marca nos TLDs dos principais mercados (.com, .com.br, .com.mx, .co.uk, .de...; lista em build.ps1).
+# TLDs exoticos ficam de fora de proposito: amazon.co.bi, alibaba.ir etc. sao imitacoes ou empresas sem relacao.
+
+# ---------- Google / Google Ads ----------
+google.*
+googleadservices.com
+googlesyndication.com
+googletagmanager.com
+googletagservices.com
+google-analytics.com
+googleanalytics.com
+googleoptimize.com
+googletraveladservices.com
+adsensecustomsearchads.com
+doubleclick.net
+doubleclick.com
+2mdn.net
+dartsearch.net
+admob.com
+app-measurement.com
+googleapis.com
+gstatic.com
+googleusercontent.com
+googlevideo.com
+ggpht.com
+gvt1.com
+gvt2.com
+gvt3.com
+youtube.com
+youtu.be
+ytimg.com
+youtube-nocookie.com
+firebaseio.com
+firebaseapp.com
+crashlytics.com
+withgoogle.com
+gmail.com
+android.com
+g.co
+goo.gl
+
+# ---------- AliExpress / Alibaba ----------
+aliexpress.*
+aliexpress-media.com
+alicdn.com
+alibaba.*
+alipay.com
+
+# ---------- Amazon ----------
+amazon.*
+amzn.to
+amzn.com
+a.co
+media-amazon.com
+ssl-images-amazon.com
+images-amazon.com
+# Rede de anuncios da Amazon (fora do site). Descomente para liberar:
+# amazon-adsystem.com
+
+# ---------- Mercado Livre ----------
+mercadolivre.*
+mercadolibre.*
+mercadopago.*
+mlstatic.com
+meli.la
+
+# ---------- Shopee ----------
+shopee.*
+shope.ee
+shp.ee
+susercontent.com
+shopeemobile.com
+
+# ---------- Shein / Temu ----------
+shein.*
+ltwebstatic.com
+temu.com
+kwcdn.com
+
+# ---------- eBay / Walmart ----------
+ebay.*
+ebaystatic.com
+ebayimg.com
+walmart.com
+
+# ---------- Lojas brasileiras ----------
+magazineluiza.com.br
+magalu.com
+magalu.com.br
+magazinevoce.com.br
+americanas.com.br
+submarino.com.br
+shoptime.com.br
+casasbahia.com.br
+pontofrio.com.br
+extra.com.br
+kabum.com.br
+netshoes.com.br
+centauro.com.br
+carrefour.com.br
