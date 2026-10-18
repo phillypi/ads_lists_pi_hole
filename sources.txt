@@ -3,8 +3,9 @@
 # HaGeZi Pro - anuncios, rastreadores, telemetria, malware, phishing, cryptojacking (atualizada varias vezes ao dia)
 https://raw.githubusercontent.com/hagezi/dns-blocklists/main/adblock/pro.txt
 
-# HaGeZi TIF mini - Threat Intelligence Feeds (malware, phishing, golpes, spam)
-https://raw.githubusercontent.com/hagezi/dns-blocklists/main/adblock/tif.mini.txt
+# HaGeZi TIF medium - Threat Intelligence Feeds (malware, phishing, golpes, spam)
+# Se o Pi-hole ficar pesado (ex.: Raspberry Pi Zero), troque por tif.mini.txt
+https://raw.githubusercontent.com/hagezi/dns-blocklists/main/adblock/tif.medium.txt
 
 # StevenBlack Unified hosts - adware + malware, conservadora
 https://raw.githubusercontent.com/StevenBlack/hosts/master/hosts
